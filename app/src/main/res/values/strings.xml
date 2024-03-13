@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">weterynarz</string>
+    <string name="tytul">Wizyta u weterynarza</string>
+    <string name="podp_imie_i_nazw">Imię i nazwisko właściciela...</string>
+    <string name="gatunek_lista_tytul">Gatunek</string>
+    <string-array name="Lista">
+        <item>Pies</item>
+        <item>Kot</item>
+        <item>Świnka Morska</item>
+    </string-array>
+    <string name="ilelat">Ile ma lat?</string>
+    <string name="celwizyty">Cel wizyty</string>
+    <string name="buttonok">ok</string>
+    <string name="domyslnagodzina">16:00</string>
+    <string name="domyslnawiek">0</string>
+</resources>
